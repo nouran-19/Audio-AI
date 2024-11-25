@@ -1,6 +1,6 @@
 # Audio-AI study repository
 
-# Melspectrogram from scratch VS Librosa
+# 1- Melspectrogram from scratch VS Librosa
 
 - One file insights:
     - STFT shape: (90, 1025)
@@ -29,5 +29,4 @@
     - Standard Deviation of Difference: 7.7598
 <br>
 <br>
-
 ![Comparison results](assets/Mel-fromScratch-and-Librosa.png)
