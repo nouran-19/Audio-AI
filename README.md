@@ -27,6 +27,4 @@
     - Mean Absolute Difference: 5.9177
     - Max Absolute Difference: 48.7916
     - Standard Deviation of Difference: 7.7598
-<br>
-<br>
 ![Comparison results](assets/Mel-fromScratch-and-Librosa.png)
